@@ -4,11 +4,11 @@
 
 ## Sobre
 
-Como graduado em Administração de Empresas, escolhi direcionar minha carreira para a Ciência de Dados, reconhecendo o papel crucial que a análise de dados desempenha nas decisões estratégicas de uma organização.
+Como graduado em administração de empresas, escolhi direcionar minha carreira para a ciência de dados, reconhecendo o papel crucial que a análise de dados desempenha nas decisões estratégicas de uma organização.
 
-Atualmente, desempenho o papel de Analista de Dados em uma consultoria especializada, sendo responsável por uma gama de atividades que abrangem desde a criação de pipelines de dados até a elaboração de dashboards e relatórios analíticos. Além disso, também possuo experiência em análises exploratórias e técnicas de Machine Learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de extrair insights significativos dos dados.
+Atualmente, desempenho o papel de analista de dados em uma consultoria especializada, sendo responsável por uma gama de atividades que abrangem desde a criação de pipelines de dados até a elaboração de dashboards e relatórios analíticos. Além disso, também possuo experiência em análises exploratórias e técnicas de machine learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de extrair insights significativos dos dados.
 
-Em paralelo, estou cursando uma pós-graduação em Ciência de Dados e Machine Learning, aprimorando ainda mais minha expertise nessas áreas.
+Em paralelo, estou cursando uma pós-graduação em ciência de dados e machine learning, aprimorando ainda mais minha expertise nessas áreas.
 
 
 ## Principais Ferramentas
