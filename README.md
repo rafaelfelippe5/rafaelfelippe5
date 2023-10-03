@@ -4,20 +4,22 @@
 
 ## Sobre
 
-Formado em administração de empresas, resolvi me especializar na área de ciência de dados devido à grande influência que os dados podem causar nas decisões de negócios de uma empresa.
+Como graduado em Administração de Empresas, escolhi direcionar minha carreira para a Ciência de Dados, reconhecendo o papel crucial que a análise de dados desempenha nas decisões estratégicas de uma organização.
 
-Possuo experiências em análises exploratórias e técnicas de machine learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de dar sentido aos dados e, em seguida, usar a visualização gráfica para apresentar o resultado final aos tomadores de decisão.
+Atualmente, desempenho o papel de Analista de Dados em uma consultoria especializada, sendo responsável por uma gama de atividades que abrangem desde a criação de pipelines de dados até a elaboração de dashboards e relatórios analíticos. Além disso, também possuo experiência em análises exploratórias e técnicas de Machine Learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de extrair insights significativos dos dados.
+
+Em paralelo, estou cursando uma pós-graduação em Ciência de Dados e Machine Learning, aprimorando ainda mais minha expertise nessas áreas.
 
 
 ## Principais Ferramentas
 
-• Banco de dados: `MySQL` `SQL Server` `Teradata` <br>
-• Big Data: `Apache Spark` `Databricks` `Hadoop` <br>
-• Cloud Computing: `Amazon Web Services` `Microsoft Azure` `Google Cloud Platform` <br>
+• Banco de Dados: `MySQL` `SQL Server` `Teradata` <br>
+• Big Data: `Apache Spark` `Apache Hadoop` <br>
+• Cloud Computing: `Amazon Web Services` `Google Cloud Platform` <br>
 • Linguagens: `Python` `R` `SAS` `SQL` <br>
-• Machine Learning: `Caret` `MLlib` `Scikit-Learn` <br>
+• Machine Learning Frameworks: `Caret` `MLlib` `Scikit-Learn` <br>
 • Versionamento: `Git` `Github` <br>
-• Visualização de dados: `PowerBI` `Qlik Sense` `Tableau` <br>
+• Visualização de Dados: `PowerBI` <br>
 
 ## Badges
 
