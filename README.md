@@ -1,5 +1,5 @@
 <p align = "center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="4TRBdtF"><a href="https://imgur.com/4TRBdtF">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/4TRBdtF"/>
 </p>
 
 ## Sobre
