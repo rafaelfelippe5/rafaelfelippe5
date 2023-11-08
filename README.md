@@ -14,7 +14,7 @@ Em paralelo, estou cursando uma pós-graduação em ciência de dados e machine 
 
 • Banco de Dados: `MySQL` `SQL Server` `Teradata` <br>
 • Big Data: `Apache Spark` `Apache Hadoop` <br>
-• Cloud Computing: `Amazon Web Services` `Google Cloud Platform` <br>
+• Cloud Computing: `Amazon Web Services` `Microsoft Azure` <br>
 • Linguagens: `Python` `R` `SAS` `SQL` <br>
 • Machine Learning Frameworks: `Caret` `MLlib` `Scikit-Learn` <br>
 • Versionamento: `Git` `Github` <br>
