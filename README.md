@@ -24,6 +24,7 @@ Em paralelo, estou cursando uma pós-graduação em ciência de dados e machine 
 
 <p float="left">
 <img src="https://i.imgur.com/AlNTJPb.png" width="120"/>
+<img src="https://i.imgur.com/JMkWLua.png" width="120"/>
 <img src="https://i.imgur.com/9lqcFbx.png" width="120"/>
 <img src="https://i.imgur.com/ZxnWare.png" width="120"/>
 <img src="https://i.imgur.com/hSraufF.png" width="120"/>
