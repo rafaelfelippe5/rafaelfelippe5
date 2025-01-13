@@ -3,21 +3,18 @@
 
 ## Sobre
 
-Como graduado em administração de empresas, escolhi direcionar minha carreira para a ciência de dados, reconhecendo o papel crucial que a análise de dados desempenha nas decisões estratégicas de uma organização.
+Pós-graduado em Ciência de Dados e Machine Learning, atualmente desempenho a função de analista de dados em uma consultoria especializada, sendo responsável por uma gama de atividades que abrangem desde o desenvolvimento e automação de pipelines de dados, até a elaboração de dashboards e relatórios analíticos.
 
-Atualmente, desempenho o papel de analista de dados em uma consultoria especializada, sendo responsável por uma gama de atividades que abrangem desde a criação de pipelines de dados até a elaboração de dashboards e relatórios analíticos. Além disso, também possuo experiência em análises exploratórias e técnicas de machine learning, incluindo a criação de algoritmos de classificação, regressão e clusterização, sempre com o objetivo de extrair insights significativos dos dados.
-
-Em paralelo, estou cursando uma pós-graduação em ciência de dados e machine learning, aprimorando ainda mais minha expertise nessas áreas.
+Também possuo experiência em análises exploratórias e técnicas de machine learning, incluindo a implementação de algoritmos supervisionados e não supervisionados, utilizando diversas plataformas, ferramentas e bibliotecas para otimização e validação dos modelos, sempre com foco na geração de insights e no suporte à tomada de decisões.
 
 
 ## Principais Ferramentas
 
-• Banco de Dados: `MySQL` `SQL Server` `Teradata` <br>
-• Big Data: `Apache Spark` `Apache Hadoop` <br>
-• Cloud Computing: `Amazon Web Services` `Microsoft Azure` <br>
+• Banco de Dados: `SQL Server` <br>
+• Big Data: `Apache Spark` `Databricks` <br>
+• Cloud Computing: `Amazon Web Services` <br>
 • Linguagens: `Python` `R` `SAS` `SQL` <br>
-• Machine Learning Frameworks: `Caret` `MLlib` `Scikit-Learn` <br>
-• Versionamento: `Git` `Github` <br>
+• Machine Learning Frameworks: `MLlib` `Scikit-Learn` `TensorFlow` <br>
 • Visualização de Dados: `PowerBI` <br>
 
 ## Badges
